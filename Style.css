@@ -1,0 +1,23 @@
+	h1,h2 {color: #f28500; font-family: Verdana, sans-serif;}
+	h3,h4 {color: white; font-family: Verdana, sans-serif;}
+
+	table,th,td {font-family: Verdana, sans-serif; color: white; border: white;}
+	p { color: white; font-family: Verdana, sans-serif;}
+	ul { color: white;font-family: Verdana, sans-serif;}
+	.importante {color: red;}
+	#indice {color: purple;}
+	b {color: white; font-family: Verdana, sans-serif;}
+
+	body { 
+
+		padding-left: 25px;
+		padding-right: 25px;
+		background-image: url(Sfondo1.png);
+		background-size: 150%;
+		background-position: center;
+		
+		}
+	table.center {
+  		margin-left: auto;
+  		margin-right: auto;
+		}
