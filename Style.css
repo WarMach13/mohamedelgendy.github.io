@@ -1,12 +1,12 @@
-	h1,h2 {color: #f28500; font-family: Verdana, sans-serif;}
-	h3,h4 {color: white; font-family: Verdana, sans-serif;}
+	h1,h2 {color: #f28500; font-family: Verdana, sans-serif; text-shadow: 1px 1px 2px black;}
+	h3,h4 {color: white; font-family: Verdana, sans-serif; text-shadow: 1px 1px 2px black;}
 
-	table,th,td {font-family: Verdana, sans-serif; color: white; border: white;}
-	p { color: white; font-family: Verdana, sans-serif;}
-	ul { color: white;font-family: Verdana, sans-serif;}
+	table,th,td {font-family: Verdana, sans-serif; color: white; border: white; text-shadow: 1px 1px 2px black;}
+	p { color: white; font-family: Verdana, sans-serif; text-shadow: 1px 1px 2px black;}
+	ul { color: white;font-family: Verdana, sans-serif; text-shadow: 1px 1px 2px black;}
 	.importante {color: red;}
 	#indice {color: purple;}
-	b {color: white; font-family: Verdana, sans-serif;}
+	b {color: white; font-family: Verdana, sans-serif; text-shadow: 1px 1px 2px black;}
 
 	body { 
 
