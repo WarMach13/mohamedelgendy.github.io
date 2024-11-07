@@ -12,9 +12,10 @@
 
 		padding-left: 25px;
 		padding-right: 25px;
-		background-image: url(Sfondo2.jpg);
-		background-size: 100%;
+		background-image: url(Sfondofinal.jpg);
+		background-size: cover;
 		background-position: center;
+		background-repeat: no-repeat;
 		
 		}
 	table.center {
